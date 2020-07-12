@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, my name is Adam 👋🏽 👨🏽‍💻
 
-<!--
-**Adespinoza/Adespinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer who is passionate about increasing the representation of people of color ✊🏽 and the LGBTQIA+  🏳️‍🌈 community within the tech industry. 
 
-Here are some ideas to get you started:
+**Me, a nutshell:**
+- 💁🏽‍♂️ Pronouns: He/Him/His
+- 📍 Los Angeles, CA
+- 💼 Software Development Engineer @ [Amazon Studios](https://studios.amazon.com/)
+- 💻 ReactJS, GraphQL, Javascript/TypeScript, Python, AWS Cloud Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me on
+- <a href="https://www.linkedin.com/in/adamespinoza/">LinkedIn</a>
+- <a href="https://angel.co/adamespi">Angel.co</a>
+- <a href="https://medium.com/@adamespinoza">Medium</a>
+- <a href="https://twitter.com/adamespi_">Twitter</a>
