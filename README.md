@@ -1,5 +1,8 @@
 # Hi, my name is Adam 👋🏽 👨🏽‍💻
 
+![ezgif-5-08c6fbfc4947](https://user-images.githubusercontent.com/11344661/87259640-a3f78180-c461-11ea-9836-96c33b764c09.gif)
+
+
 I am a software engineer who is passionate about increasing the representation of people of color ✊🏽 and the LGBTQIA+  🏳️‍🌈 community within the tech industry. 
 
 **Me, a nutshell:**
