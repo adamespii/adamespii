@@ -4,7 +4,7 @@
 
 I am a software engineer who is passionate about increasing the representation of people of color ✊🏽 and the LGBTQIA+  🏳️‍🌈 community within the tech industry. 
 
-**Me, a nutshell:**
+**Me, in a nutshell:**
 - 📍 Los Angeles, CA
 - 💁🏽‍♂️ Pronouns: He/Him/His
 - 💼 Software Development Engineer @ [Amazon Studios](https://studios.amazon.com/)
