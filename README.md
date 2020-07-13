@@ -1,7 +1,6 @@
 # Hi, my name is Adam 👋🏽 👨🏽‍💻
 
-![ezgif-5-08c6fbfc4947](https://user-images.githubusercontent.com/11344661/87259640-a3f78180-c461-11ea-9836-96c33b764c09.gif)
-
+<img width="1294" alt="Adam Espinoza sitting in a chair debugging a Robot" src="https://user-images.githubusercontent.com/11344661/87259683-ee78fe00-c461-11ea-86c8-5d0642895aee.png">
 
 I am a software engineer who is passionate about increasing the representation of people of color ✊🏽 and the LGBTQIA+  🏳️‍🌈 community within the tech industry. 
 
