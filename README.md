@@ -16,8 +16,8 @@ I am a software engineer who is passionate about increasing the representation o
 **Me, in a nutshell:**
 
 - 📍 Los Angeles, CA
-- 💁🏽‍♂️ Pronouns: He/Him/His
-- 💼 Software Development Engineer @ [Amazon Studios](https://studios.amazon.com/)
+- 💁🏽‍♂️ Pronouns: He/Him/His + They/Them/Their
+- 💼 Software Development Engineer II @ [Amazon Studios](https://studios.amazon.com/)
 
 
 ## Find me on
